@@ -61,4 +61,4 @@ if uploaded_file is not None:
         st.progress(float(confidence))
 
 st.markdown("---")
-st.markdown("Made with ❤️ by Jeyasri | GUVI Project")S
+st.markdown("Made with ❤️ by Jeyasri | GUVI Project")
